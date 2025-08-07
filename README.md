@@ -61,16 +61,6 @@ Das Hauptmodell ist eine **Logistische Regression**. Es wurde mithilfe von `skle
 
 Das Modell zeigt solide Leistung bei der Klassifizierung, mit einer akzeptablen Balance zwischen Sensitivität und Spezifität. Die ROC-Kurve zeigt eine gute Trennung zwischen den Klassen.
 
-## Fazit
-
-Ein einfaches, aber effektives Modell zur Vorhersage von Diabetes wurde erstellt. Weitere Verbesserungen könnten durch komplexere Modelle (z. B. Random Forest, XGBoost) und Hyperparameter-Optimierung erreicht werden.
-
-## To Do / Verbesserungsmöglichkeiten
-
-- Einsatz anderer Klassifikatoren
-- Cross-Validation zur besseren Generalisierung
-- Hyperparameter-Tuning
-- Umgang mit Klassenungleichgewicht (falls vorhanden)
 
 
 ---
