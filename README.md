@@ -32,7 +32,7 @@ Die verwendeten Daten stammen aus dem [Pima Indians Diabetes Database](https://w
 - `seaborn`
 - `sklearn` (für Modellierung, Evaluation und Datenvorverarbeitung)
 
-## Explorative Datenanalyse (EDA)
+## Explorative Datenanalyse 
 
 Das Notebook enthält visuelle Analysen zur Verteilung der Merkmale und zur Korrelation mit dem Zielwert (Diabetes). Einige Highlights:
 
